@@ -1,0 +1,54 @@
+# Node
+node_modules/
+.env
+.env.*
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.venv/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Misc
+*.swp
+*.swo
+
+# Frontend
+frontend/node_modules/
+frontend/.env
+frontend/dist/
+frontend/build/
+
+# Backend
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/env/
+backend/venv/
+backend/.venv/
+backend/.mypy_cache/
+backend/.pytest_cache/
+backend/.coverage
+backend/htmlcov/
+backend/.pylint.d/
+backend/.python-version
+backend/.idea/
+backend/.vscode/
+backend/.DS_Store
+backend/Thumbs.db
